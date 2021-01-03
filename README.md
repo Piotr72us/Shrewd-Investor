@@ -9,7 +9,9 @@
 
 ![]("https://github.com/SarahMyriam/Shrewd-Investor/blob/main/public%2Fassets%2Fimages%2Flogin.png")
 
-  
+  <p align="center">
+  <img src="./assets/shrewd.png">
+  </p>
 
   ## Description 
   Shrewd investor is a mobile app that offers free stock trading for new investors.
