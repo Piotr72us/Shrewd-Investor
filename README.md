@@ -10,6 +10,12 @@
   ## Description 
   
   Shrewd investor is a mobile app that offers free stock trading for new investors.
+ 
+  Application allows users to save stocks in their portfolios.
+
+  Application allows users to see the current price (and change in price).
+
+  Application allows users to get more information about the stock.
   
 
   ## Table of Contents
@@ -41,16 +47,10 @@
       
   This project is licensed under the MIT license. 
   
-
-  ## Acceptance Criteria
   
-  Application should allow users to save stocks in the portfolio.
-
-  Application should allow users to delete previous stock (from their portfolio, given they are unsatisfied with their performance).
-
-  Application should allow user to see current price (change in price).
-
-  pplication should allow users to get more information about the stock.
+  ## Contributing
+  
+  Contact me to learn how to contribute to this project.
   
 
   ## Tests 
