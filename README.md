@@ -22,8 +22,10 @@
   
   *[Installation](#installation)  
   *[Usage](#usage)   
-  *[License](#license) 
-  *[Contributing](#contributing)  
+  *[License](#license)
+  
+  *[Contributing](#contributing)
+  
   *[Tests](#tests)  
   *[Questions](#questions)
   
