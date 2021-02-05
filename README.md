@@ -1,35 +1,26 @@
-![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Shrewd Investor 
   https://shrewd-investor.herokuapp.com/
-
-![]("https://github.com/SarahMyriam/Shrewd-Investor/blob/main/public%2Fassets%2Fimages%2Fshrewdindexpg.png")
-
-![]("https://github.com/SarahMyriam/Shrewd-Investor/blob/main/public%2Fassets%2Fimages%2Fsignup.png")
-
-![]("https://github.com/SarahMyriam/Shrewd-Investor/blob/main/public%2Fassets%2Fimages%2Flogin.png")
 
   <p align="center">
   <img src="./assets/shrewd.png">
   </p>
 
   ## Description 
+  
   Shrewd investor is a mobile app that offers free stock trading for new investors.
+  
 
   ## Table of Contents
-  *[Installation](#installation)
   
-  *[Usage](#usage)
-  
-  
- *[License](#license) 
-
-  
-  *[Contributing](#contributing)
-  
-  *[Tests](#tests)
-  
+  *[Installation](#installation)  
+  *[Usage](#usage)   
+  *[License](#license) 
+  *[Contributing](#contributing)  
+  *[Tests](#tests)  
   *[Questions](#questions)
+  
 
   ## Installation
 
@@ -46,18 +37,20 @@
 
 
 
-## License
+  ## License
       
-    This project is licensed under the MIT license. 
+  This project is licensed under the MIT license. 
+  
 
   ## Acceptance Criteria
-  Application should allow users to save stocks in the portfolio
+  
+  Application should allow users to save stocks in the portfolio.
 
-  Application should allow users to delete previous stock (from their portfolio, given they are unsatisfied with their performance)
+  Application should allow users to delete previous stock (from their portfolio, given they are unsatisfied with their performance).
 
-  Application should allow user to see current price(change in price)
+  Application should allow user to see current price (change in price).
 
-  pplication should allow users to get more information about the stock
+  pplication should allow users to get more information about the stock.
   
 
   ## Tests 
@@ -66,7 +59,8 @@
 
 
   ## Questions 
-  If you have any questions about the repo, open an issue or contact me directly at sarahbamba17@gmail.com. You can find more of my work at https://github.com/Sarah.
+  
+  If you have any questions about the repo, open an issue or contact me directly at piotr72@gmail.com. You can find more of my work at https://github.com/Piotr72us.
 
 
 
